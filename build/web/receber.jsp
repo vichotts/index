@@ -5,6 +5,15 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Telinha do Dev !!</title>
+        <style>
+            
+            body {
+                background-image: url(home.jpeg);
+                background-attachment:fixed;
+                background-size: 75%;
+            }
+            
+        </style>
     </head>
     <body>
         <h1> Arquivos Recebidos !!</h1>

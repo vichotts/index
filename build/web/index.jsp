@@ -1,6 +1,15 @@
 <html>
     <head>
         <title>Formulário para o Cliente</title>
+        <style>
+            
+            body {
+                background-image: url(home.jpeg);
+                background-attachment:fixed;
+                background-size: 75%;
+            }
+            
+        </style>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
